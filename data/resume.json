@@ -1,0 +1,115 @@
+{
+  "name": "Danillo Silva",
+  "title": "Desenvolvedor de Software Full Stack",
+  "description": "Estudante do último período de Análise e Desenvolvimento de Sistemas com experiência em desenvolvimento backend na criação de microsserviços. Tenho interesse em infraestrutura, automações e design de soluções. Atualmente, estou me aprofundando em tecnologias de engenharia de prompt, engenharia de dados, nuvem e práticas de infraestrutura como código (IaC). Tenho o objetivo de fazer mestrado e busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente.",
+  "photo": "./images/danillo.jpeg",
+  "skills": {
+    "Programação Orientada a Objetos (POO)": [
+      "Aplicação de princípios de POO em diversas linguagens e projetos"
+    ],
+    "Arquitetura Cliente-Servidor": [
+      "Desenvolvimento e manutenção de aplicações distribuídas",
+      "Criação e integração de microsserviços"
+    ],
+    "Testes Unitários": [
+      "Implementação de testes para garantir a qualidade do código"
+    ],
+    "JSON / XML": [
+      "Manipulação e troca de dados estruturados"
+    ],
+    "Postman": [
+      "Testes, documentação e automação de APIs RESTful"
+    ],
+    "Git / GitHub": [
+      "Controle de versão e colaboração em projetos"
+    ],
+    "SQL": [
+      "Manipulação e consulta de dados em bancos de dados relacionais"
+    ],
+    "Metodologias Ágeis": [
+      "Aplicação de práticas ágeis como Scrum e Kanban"
+    ],
+    "Soft Skills": [
+      "Proatividade",
+      "Resolução de problemas",
+      "Colaboração",
+      "Inovação"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Estagiário em Engenharia de Software",
+      "company": "Procenge",
+      "dates": "Março de 2023 - Abril de 2024",
+      "tasks": [
+        "Desenvolvimento e manutenção de interfaces de usuário para aplicações web, garantindo uma experiência intuitiva e eficiente.",
+        "Análise e documentação de regras de negócio, colaborando com a equipe para assegurar que os requisitos sejam atendidos corretamente.",
+        "Preparo, implementação e testes de web services, assegurando a integridade e funcionalidade das integrações de sistemas.",
+        "Participação em reuniões de equipe para discussão de progresso e alinhamento de objetivos, aplicando metodologias ágeis para melhoria contínua."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Softex",
+      "course": "Formação Acelerada em Programação Back-end com Python e Django",
+      "dates": "Julho de 2024 - Dezembro de 2024",
+      "details": [
+        "Lógica de Programação e POO com Python",
+        "Noções de Banco de Dados",
+        "Desenvolvimento Web e com Django",
+        "Git, GitHub e GitLab",
+        "Inteligência Artificial e Metodologias Ágeis",
+        "Teste de Software e Infraestrutura de TI"
+      ]
+    },
+    {
+      "institution": "Estácio",
+      "course": "Análise e Desenvolvimento de Sistemas",
+      "dates": "Março de 2022 - Dezembro de 2024",
+      "details": [
+        "Cloud, IoT e Indústria 4.0 com Python",
+        "Arquitetura de Computadores e Redes",
+        "Desenvolvimento Web (HTML5, CSS, JS, PHP)",
+        "Engenharia de Software e Usabilidade",
+        "Estrutura de Dados e Redes",
+        "Programação Orientada a Objetos em Java e Python",
+        "Big Data em Python"
+      ]
+    },
+    {
+      "institution": "Generation Brasil",
+      "course": "Desenvolvedor Web Java Junior – Full-Stack",
+      "dates": "Setembro de 2021 - Dezembro de 2021",
+      "details": [
+        "Programação em Java e Banco de Dados",
+        "Desenvolvimento Web e Projeto Integrador",
+        "Habilidades Comportamentais e Empregabilidade",
+        "Mentoria e Construção de Comunidade"
+      ]
+    },
+    {
+      "institution": "JA Brasil",
+      "course": "Suporte em TI",
+      "dates": "Abr. de 2021 - Jul. de 2021",
+      "details": [
+        "Administração de Sistemas e Serviços de Infraestrutura de TI",
+        "Fundamentos do Suporte Técnico",
+        "Redes de Computadores",
+        "Segurança de TI",
+        "Sistemas Operacionais"
+      ]
+    }
+  ],
+  "contact": {
+    "Linkedin": "https://www.linkedin.com/in/danillo-silva/",
+    "GitHub": "https://github.com/Lillow",
+    "Telefone": "81 98638-2963",
+    "Email": "danillordm@gmail.com",
+    "Endereço": "Várzea, Recife-PE"
+  },
+  "languages": {
+    "Português": "Fluente",
+    "Inglês": "Intermediário"
+  }
+}
